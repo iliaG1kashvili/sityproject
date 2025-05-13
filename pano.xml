@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" apprev="17873" start="node89">
+  <panorama id="node89">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="1.000" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="271.338" fovmode="0">
+      <start projection="4" fov="100" tilt="-10" pan="-5.65"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="TEST.JPG00000" customnodeid="" longitude="44.659556" latitude="41.759750" author="" tags="suratebi" description="" comment="" copyright="" source="" nodeid="node89" info="" datetime="3/28/2025 4:24 PM">
+      <mapcoords x="0.823288" mapid="FloorPlan01" y="-1.11649" x_floorplan_percent="34.2571" y_floorplan_percent="61.9429"/>
+    </userdata>
+    <hotspots wordwrap="1" width="105" height="0">
+      <label borderradius="10" background="1" enabled="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1" width="105" height="0" textalpha="1" textcolor="0x000000"/>
+      <polystyle mode="2" handcursor="1" backgroundcolor="0x00ff00" bordercolor="0xffffff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot title="ჰოლი" use3D="1" fov="10" id="Point01" skinid="ht_node" customimage="media/Errow_UP.png" tilt="-5.14" customimagewidth="50" description="" url="{node90}" customimageheight="50" distance3D="285.751" pan="-151.34" target=""/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" pansize="10.000" field="90.000" level="0.500" id="_background" ambientlevel="0.000" tilt="-1.000" loop="0" tiltsize="10.000" pan="-1.000" nodechangekeep="0">
+        <source url="media/Agora.mp3"/>
+      </sound>
+      <sound mode="0" level="0.400" id="Mous_02" loop="-1" url="media/skin_snd_Mous_02.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="Mous_01" loop="-1" url="media/skin_snd_Mous_01.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="16___PHUUKH_KH" loop="-1" url="media/skin_snd_16___PHUUKH_KH.mp3" keep="1"/>
+    </media>
+    <transition zoomin="2" zoomoutpause="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomout="2" zoomspeed="3" zoomfov="20" softedge="0" blendtime="1"/>
+    <autorotate speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" nodedelay="0.00" nodefilter="" startloaded="0" delay="5.00" noderandom="0"/>
+    <soundstransition enabled="1" crossfade="1" transitiontime="2"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" hideabout="0" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node90">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="1.000" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="268.506" fovmode="0">
+      <start projection="4" fov="76.67" tilt="-8.42" pan="-176.98"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" customnodeid="" longitude="" latitude="" author="" tags="test" description="" comment="" copyright="" source="" nodeid="node90" info="" datetime="">
+      <mapcoords x="0.748444" mapid="FloorPlan02" y="-1.09177" x_floorplan_percent="31.1429" y_floorplan_percent="60.5714"/>
+    </userdata>
+    <hotspots wordwrap="1" width="105" height="0">
+      <label borderradius="10" background="1" enabled="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1" width="105" height="0" textalpha="1" textcolor="0x000000"/>
+      <polystyle mode="2" handcursor="1" backgroundcolor="0x00ff00" bordercolor="0xffffff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot title="საკომფერენციო ოთახი" use3D="1" fov="10" id="Point01" skinid="ht_node" customimage="media/Errow_UP.png" tilt="-6.68" customimagewidth="50" description="" url="{node89}" customimageheight="50" distance3D="285.751" pan="-307.28" target=""/>
+      <hotspot title="ოფისი" use3D="1" fov="10" id="Point02" skinid="ht_node" customimage="media/Errow_UP.png" tilt="-11.98" customimagewidth="50" description="" url="{node91}" customimageheight="50" distance3D="285.751" pan="-166.98" target=""/>
+    </hotspots>
+    <media>
+      <sound mode="0" level="0.400" id="Mous_02" loop="-1" url="media/skin_snd_Mous_02.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="Mous_01" loop="-1" url="media/skin_snd_Mous_01.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="16___PHUUKH_KH" loop="-1" url="media/skin_snd_16___PHUUKH_KH.mp3" keep="1"/>
+    </media>
+    <transition zoomin="2" zoomoutpause="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomout="2" zoomspeed="3" zoomfov="20" softedge="0" blendtime="1"/>
+    <autorotate speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" nodedelay="0.00" nodefilter="" startloaded="0" delay="5.00" noderandom="0"/>
+    <soundstransition enabled="1" crossfade="1" transitiontime="2"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" hideabout="0" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node91">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="1.000" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-95.5238" fovmode="0">
+      <start projection="4" fov="76.67" tilt="-5.09" pan="130.72"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" customnodeid="" longitude="" latitude="" author="" tags="test" description="" comment="" copyright="" source="" nodeid="node91" info="" datetime="">
+      <mapcoords x="1.66374" mapid="FloorPlan01" y="-0.894699" x_floorplan_percent="69.2286" y_floorplan_percent="49.6381"/>
+    </userdata>
+    <hotspots wordwrap="1" width="105" height="0">
+      <label borderradius="10" background="1" enabled="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1" width="105" height="0" textalpha="1" textcolor="0x000000"/>
+      <polystyle mode="2" handcursor="1" backgroundcolor="0x00ff00" bordercolor="0xffffff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot title="ჰოლი" use3D="1" fov="10" id="Point01" skinid="ht_node" customimage="media/Errow_UP.png" tilt="-8.51" customimagewidth="50" description="" url="{node90}" customimageheight="50" distance3D="285.751" pan="-107.13" target=""/>
+    </hotspots>
+    <media>
+      <sound mode="0" level="0.400" id="Mous_02" loop="-1" url="media/skin_snd_Mous_02.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="Mous_01" loop="-1" url="media/skin_snd_Mous_01.mp3" keep="1"/>
+      <sound mode="0" level="1.000" id="16___PHUUKH_KH" loop="-1" url="media/skin_snd_16___PHUUKH_KH.mp3" keep="1"/>
+    </media>
+    <transition zoomin="2" zoomoutpause="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomout="2" zoomspeed="3" zoomfov="20" softedge="0" blendtime="1"/>
+    <autorotate speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" nodedelay="0.00" nodefilter="" startloaded="0" delay="5.00" noderandom="0"/>
+    <soundstransition enabled="1" crossfade="1" transitiontime="2"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" hideabout="0" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" customnodeid="" longitude="" latitude="" author="" tags="" description="" comment="" copyright="" source="" nodeid="master" info="" datetime=""/>
+  </masternode>
+  <map title="" bgcolor="rgba(255, 255, 255, 0)" tileformat="png" id="FloorPlan01" zoomlevels="1" type="file" transparent="1" floorplannorth="0" width="3500" height="2625"/>
+  <map title="" bgcolor="rgba(255, 255, 255, 0)" tileformat="png" id="FloorPlan02" zoomlevels="1" type="file" transparent="1" floorplannorth="0" width="3500" height="2625"/>
+</tour>
